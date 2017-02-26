@@ -1,0 +1,75 @@
+*Tarmak 1
+*[E]>[J]
+*[J]>[N]
+*[N]>[K]
+*[K]>[E]
+
+*Tarmak 2
+*[T]>[G]
+*[E]>[F]
+*[G]>[J]
+*[F]>[T]
+*[J]>[N]
+*[K]>[E]
+*[N]>[K]
+
+*Tarmak 3
+[T]>[G]
+[E]>[F]
+[R]>[J]
+[F]>[T]
+[J]>[N]
+[K]>[E]
+[N]>[K]
+[S]>[R]
+[D]>[S]
+[G]>[D]
+
+*Tarmak 4
+*[T]>[G]
+*[E]>[F]
+*[Y]>[J]
+*[F]>[T]
+*[J]>[N]
+*[K]>[E]
+*[N]>[K]
+*[S]>[R]
+*[D]>[S]
+*[G]>[D]
+*[R]>[P]
+*[O]>[Y]
+*[;]>[O]
+*[P]>[;]
+
+*Tarmak 5 (Colemak)
+*[T]>[G]
+*[E]>[F]
+*[Y]>[J]
+*[F]>[T]
+*[J]>[N]
+*[K]>[E]
+*[N]>[K]
+*[S]>[R]
+*[D]>[S]
+*[G]>[D]
+*[R]>[P]
+*[O]>[Y]
+*[;]>[O]
+*[P]>[;]
+*[U]>[L]
+*[I]>[U]
+*[L]>[I]
+
+*swap escape and caps lock
+[escape]>[caps]
+[caps]>[escape]
+
+*Macros*
+* WA Email
+{lalt}{k}>{lalt}{j}{u}{s}{t}{i}{n}{-lshift}{hyphen}{+lshift}{v}{a}{n}{w}{i}{n}{k}{l}{e}{-rshift}{2}{+rshift}{w}{y}{c}{l}{i}{f}{f}{e}{a}{s}{s}{o}{c}{i}{a}{t}{e}{s}{.}{o}{r}{g}
+
+* WA Username
+{lalt}{u}>{lalt}{v}{a}{n}{w}{i}{n}{k}{l}{e}{j}
+
+* Outlook move to "done" folder 
+{lalt}{d}>{lalt}{-rwin}{-lshift}{m}{+lshift}{+rwin}{d}{o}{n}{e}{enter}
