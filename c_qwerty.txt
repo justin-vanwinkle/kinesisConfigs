@@ -64,6 +64,14 @@
 [escape]>[caps]
 [caps]>[escape]
 
+*scroll lock shuts down
+[scroll]>[shutdn]
+
+*rotate <> to align with other brackets
+[,]>[/]
+[.]>[,]
+[/]>[.]
+
 *Macros*
 * WA Email
 {lalt}{k}>{lalt}{j}{u}{s}{t}{i}{n}{-lshift}{hyphen}{+lshift}{v}{a}{n}{w}{i}{n}{k}{l}{e}{-rshift}{2}{+rshift}{w}{y}{c}{l}{i}{f}{f}{e}{a}{s}{s}{o}{c}{i}{a}{t}{e}{s}{.}{o}{r}{g}
